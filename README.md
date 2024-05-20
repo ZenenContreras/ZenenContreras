@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0ZjBnZ2ZuM3JkNXg2MXY3cWRodjFmZnpqdG94aGRwcmpreG5vYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YW1g39jepet2t5bcSh/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJ6am90ZzV5eGRvYW00Z24xdjQ4M2NwNnY5amhzMGkzanBxZWl3NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YW1g39jepet2t5bcSh/giphy.gif)"  />
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0ZjBnZ2ZuM3JkNXg2MXY3cWRodjFmZnpqdG94aGRwcmpreG5vYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YW1g39jepet2t5bcSh/giphy.gif"  />
 </div>
 
 ###
@@ -12,13 +12,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZenenContreras.ZenenContreras&left_color=yellow&right_color=blue"  />
-</div>
+<h1 align="center">Hey There 👋</h1>
 
 ###
 
-<h1 align="center">Hey There 👋</h1>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ZenenContreras/count.svg?"  />
+</div>
 
 ###
 
@@ -53,6 +53,15 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZenenContreras&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=ZenenContreras&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 ###
 
