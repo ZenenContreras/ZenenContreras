@@ -1,18 +1,63 @@
-<h1 align="center">Hi 👋, I'm Zenen Contreras</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<div align="center">
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0ZjBnZ2ZuM3JkNXg2MXY3cWRodjFmZnpqdG94aGRwcmpreG5vYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YW1g39jepet2t5bcSh/giphy.gif"  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zenencontreras&label=Profile%20views&color=0e75b6&style=flat" alt="zenencontreras" /> </p>
+###
 
-- 🌱 I’m currently learning **React**
+<div align="center">
+  <a href="https://www.linkedin.com/in/zenen-contreras-royero-726523259/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
-- 📫 How to reach me **Zenencontreras1@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zenen-contreras-royero-726523259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zenen-contreras-royero-726523259" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZenenContreras.ZenenContreras&left_color=yellow&right_color=blue"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenencontreras&show_icons=true&locale=en&layout=compact" alt="zenencontreras" /></p>
+<h1 align="center">Hey There 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<br clear="both">
+
+<p align="center">Hello, world! I'm a Systems Engineering student passionate about front-end web development.  Driven by a fascination with how code transforms into vibrant, functional websites, I spend my academic and personal time mastering HTML, CSS, and JavaScript. My GitHub hosts a variety of projects that reflect both my coursework and self-directed explorations, showcasing my commitment to continual learning and excellence in web design.<br><br>Through my university studies, I've developed strong technical foundations and problem-solving skills. Off-campus, I dive deeper by building personal web projects. These endeavors are not just a playground for applying new technologies like React but also a testament to my dedication to staying ahead in the ever-evolving tech landscape.<br><br>I regularly participate in tech community events and contribute to online forums, sharing knowledge and absorbing new ideas from fellow tech enthusiasts. My goal is to merge technical expertise with creativity to create user-friendly, aesthetically pleasing web experiences.<br><br>Thank you for checking out my profile. Dive into my repositories to see how I transform ideas into interactive realities!</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ZenenContreras&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
