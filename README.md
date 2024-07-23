@@ -16,10 +16,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ZenenContreras/count.svg?"  />
-</div>
-
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
@@ -28,7 +24,7 @@
 
 <br clear="both">
 
-<p align="center">Hello, world! I'm a Systems Engineering student passionate about front-end web development. Driven by a fascination with how code transforms into vibrant, functional websites, I spend my academic and personal time mastering HTML, CSS, and JavaScript.<br><br>Through my university studies, I've developed strong technical foundations and problem-solving skills. Off-campus, I dive deeper by building personal web projects. These endeavors are not just a playground for applying new technologies but also a testament to my dedication to staying ahead in the ever-evolving tech landscape.<br><br>Thank you for checking out my profile.</p>
+<p align="left"> Hello, world! I'm a Systems Engineering student passionate about front-end web development. Driven by a fascination with how code transforms into vibrant, functional websites, I spend my academic and personal time mastering HTML, CSS, and JavaScript.<br><br>Through my university studies, I've developed strong technical foundations and problem-solving skills. Off-campus, I dive deeper by building personal web projects. These endeavors are not just a playground for applying new technologies but also a testament to my dedication to staying ahead in the ever-evolving tech landscape.<br><br>Thank you for checking out my profile.</p>
 
 ###
 
