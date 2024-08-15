@@ -9,7 +9,7 @@
 
 ###
 
-<h1 align="center">Hey There 👋</h1>
+<h1 align="center" target="_blank">Hey There 👋</h1>
 
 ###
 
