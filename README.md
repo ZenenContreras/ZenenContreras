@@ -9,7 +9,7 @@ Thank you for checking out my profile.
 
 </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [zenencontreras.github.io](zenencontreras.github.io)
 
