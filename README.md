@@ -11,7 +11,7 @@ Thank you for checking out my profile.
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [zenencontreras.github.io](zenencontreras.github.io)
+- 👨‍💻 All of my projects are available at [zenenc.com](zenenc.com)
 
 - 💬 Ask me about **Javascript**
 
