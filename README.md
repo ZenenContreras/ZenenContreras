@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Zenencontreras1@gmail.com**
 
-- 📄 Know about my experiences [https://www.zenenc.com](https://www.zenenc.com)
+- 📄 Know about my experiences [https://portfolio2-lemon-nine.vercel.app](https://portfolio2-lemon-nine.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
