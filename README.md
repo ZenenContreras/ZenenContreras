@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zenen Contreras</h1>
 <h3 align="center">A Systems Engineering student passionate about web development.</h3>
   
-- 🌱 I’m currently learning **React** 
+- 🌱 I’m currently learning **React + Typescript** 
 
 - 👥 I’m looking to collaborate on **Reacts Proyects**
 
@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **Zenencontreras1@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio2-lemon-nine.vercel.app](https://portfolio2-lemon-nine.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
