@@ -2,12 +2,7 @@
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWt5ajhpNHh0cHY2ZjgzbDdyZGloZXl5YjRzOWwxb2ZnbG1mMXo3NyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/tJDz8mPYyUJZ1Pg9fA/giphy.gif"  />
 </div>
 
-###
-
 <h1 align="center">Hi there! I'm Zenen Contreras 👋</h1>
-
-###
-
 <h2 align="center">A Passionate Systems Engineering Student & Web Developer</h2>
 
   <p align="center">
