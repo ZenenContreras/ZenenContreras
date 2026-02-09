@@ -27,12 +27,12 @@ jobs:
 
       # Paso 2: Generar los archivos del Snake (SVG y Dark Mode)
       - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
+            dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # Paso 3: Publicar los archivos en una rama llamada "output"
       - name: push github-contribution-grid-snake.svg to the output branch
