@@ -7,11 +7,11 @@
 
   <p align="center">
     <samp>
-      > LOCATION: Barranquilla, Colombia 🇨🇴<br>
-      <br>
+      📍 LOCATION: Barranquilla, Colombia 🇨🇴 <br>
       🌱 CURRENT QUEST: Mastering React + TypeScript<br>
       🔭 SIDE QUEST: Creative Coding with GSAP<br>
-      🤝 MULTIPLAYER: Open to Collaborate on React Projects
+      🤝 MULTIPLAYER: Open to Collaborate on React Projects <br>
+      👨‍💻 All of my projects are available at: http://www.zenenc.vercel.app
     </samp>
   </p>
 
