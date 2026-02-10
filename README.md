@@ -11,7 +11,7 @@
       🌱 CURRENT QUEST: Mastering React + TypeScript<br>
       🔭 SIDE QUEST: Creative Coding with GSAP<br>
       🤝 MULTIPLAYER: Open to Collaborate on React Projects <br>
-      👨‍💻 All of my projects are available at: https://www.zenenc.vercel.app
+      👨‍💻 All of my projects are available at: [https://www.zenenc.vercel.app](https://zenenc.vercel.app/)
     </samp>
   </p>
 
