@@ -11,7 +11,10 @@
       🌱 CURRENT QUEST: Mastering React + TypeScript<br>
       🔭 SIDE QUEST: Creative Coding with GSAP<br>
       🤝 MULTIPLAYER: Open to Collaborate on React Projects <br>
-      👨‍💻 All of my projects are available at: https://zenenc.vercel.app/
+      👨‍💻 All of my projects are available at: <br>
+        <a href="https://www.zenenc.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PORTFOLIO&label=zenenc.vercel.app&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Porfolio"  />
+  </a>
     </samp>
   </p>
 
