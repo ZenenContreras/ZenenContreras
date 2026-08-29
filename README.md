@@ -12,10 +12,10 @@
       🔭 Creative Coding with GSAP<br>
       🤝 Open to Collaborate on Javascript & Typescript Projects <br>
       👨‍💻 All of my projects are available at: <br> <br>
-        <a href="https://zenen.tech" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PORTFOLIO&label=zenen.tech&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Porfolio"  />
-  </a>
-    </samp>
+    <a href="https://zenen.tech" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=PORTFOLIO&label=zenen.tech&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio" />
+    </a>
+  </samp>
   </p>
 
 ###
@@ -63,7 +63,7 @@
   <a href="https://x.com/zenendev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=zenendev&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="zenencontreras1@gmail.com" target="_blank">
+  <a href="mailto:zenencontreras1@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=zenencontreras1@gmail.com&color=D14836&logoColor=red&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
