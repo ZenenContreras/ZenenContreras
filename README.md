@@ -1,5 +1,5 @@
 <div align="center">
-  <img height=300 src="https://media0.giphy.com/media/imHJKSWL5rt8n0fZO8/giphy.gif"/>
+  <img height=250 src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
 </div>
 <h1 align="center">Hi there! I'm Zenen 👋</h1>
 <h2 align="center">A Passionate Systems Engineering Student & Web Developer</h2>
