@@ -20,7 +20,6 @@
     <samp>
       📍 Barranquilla, Colombia 🇨🇴 <br>
       🌱 Mastering Nextjs + TypeScript<br>
-      🔭 Creative Coding with GSAP<br>
       🤝 Open to Collaborate on Javascript & Typescript Projects <br>
       👨‍💻 All of my projects are available at: <br> <br>
     <a href="https://zenen.tech" target="_blank">
