@@ -19,8 +19,8 @@
   <p align="center">
     <samp>
       📍 Bogota, Colombia 🇨🇴 <br>
-      🌱 Mastering Nextjs + TypeScript<br>
-      🤝 Open to Collaborate on Javascript & Typescript Projects <br>
+      🌱 Mastering Go + TypeScript<br>
+      🤝 Open to Collaborate on Any Projects tbh <br>
       👨‍💻 All of my projects are available at: <br> <br>
     <a href="https://zenen.tech" target="_blank">
       <img src="https://img.shields.io/static/v1?message=PORTFOLIO&label=zenen.tech&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio" />
@@ -33,6 +33,7 @@
 <div align="center">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img alt="GoLang" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" />
 </div>
 
 ### Frontend
