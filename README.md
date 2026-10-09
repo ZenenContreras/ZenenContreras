@@ -1,8 +1,7 @@
 <div align="center">
   <img height=150 src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
 </div>
-<h1 align="center">Hi there! I'm Zenen 👋</h1>
-<h2 align="center">A Passionate System Engineer</h2>
+<h2 align="center">Hi there! I'm Zenen, a passionate Systems Engineer</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/zenencontreras/" target="_blank">
