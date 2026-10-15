@@ -19,7 +19,7 @@
     <samp>
       📍 Bogota, Colombia 🇨🇴 <br>
       🌱 Mastering Go + TypeScript<br>
-      🤝 Open to Collaborate on Any Projects tbh <br>
+      🤝 Open to Collaborate on Any software Projects tbh <br>
       👨‍💻 All of my projects are available at: <br> <br>
     <a href="https://zenen.tech" target="_blank">
       <img src="https://img.shields.io/static/v1?message=PORTFOLIO&label=zenen.tech&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio" />
