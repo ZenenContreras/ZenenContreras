@@ -18,25 +18,25 @@
 ###
 ### Languages
 <div align="center">
-    <img alt="Languages" src="https://skillicons.dev/icons?i=js,ts,go"/>
+    <img alt="Languages" src="https://skills.syvixor.com/api/icons?i=js,ts,go"/>
 </div>
 
 ### Frontend
 <div align="center">
-      <img alt="Fronted" src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwindcss"/>
+      <img alt="Fronted" src="https://skills.syvixor.com/api/icons?i=react,nextjs,vite,tailwindcss,zustand,reactrouter,gsap"/>
 </div>
 
 ### Backend
 <div align="center">
-  <img alt="Backend" src="https://skillicons.dev/icons?i=nodejs,express,prisma,go,postgresql,redis"/>
+  <img alt="Backend" src="https://skills.syvixor.com/api/icons?i=nodejs,express,prisma,go,postgresql,redis"/>
 </div>
 
 ### Tools and Platforms
 <div align="center">
-  <img alt="Backend" src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,linux,postman"/>
+  <img alt="Backend" src="https://skills.syvixor.com/api/icons?i=aws,docker,git,github,vercel,linux,postman,stripe"/>
 </div>
 
-###
+### Contact
 <div align="center">
   <a href="https://www.linkedin.com/in/zenencontreras/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=zenencontreras&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
