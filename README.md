@@ -3,23 +3,22 @@
 </div>
 <h2 align="center">Hi there! I'm Zenen, a passionate Systems Engineer</h2>
 
-<p align="center">
-    <code>~ Location/</code><br>
-    <code> Based in Bogota, Colombia 🇨🇴 </code><br>
+<p>
+    <code>~$ ls location/</code><br>
+    <code>Based in Bogota, Colombia 🇨🇴 </code><br>
     <br>
-    <code>~ Mastering/ </code> <br>
+    <code>~$ ls mastering/ </code> <br>
     <code>Currently Mastering Go + TypeScript</code><br><br>
-    <code>~ Colab/ </code><br>
+    <code>~$ ls colab/ </code><br>
     <code>Open to Collaborate on Any software Projects tbh </code><br><br>
-    <code>~ Projects/ </code><br>
+    <code>~$ ls projects/ </code><br>
     <code>All of my projects are available at: </code><br><br>
+      <a href="https://zenen.tech" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=PORTFOLIO&label=zenen.tech&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio" />
+      </a>
 </p>
 
-<div align="center">
-  <a href="https://zenen.tech" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=PORTFOLIO&label=zenen.tech&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio" />
-  </a>
-</div>
+
 
 
 ###
@@ -33,7 +32,7 @@
 
 </div>
 
-### Contact
+<code>~$ ls contact/</code><br>
 
 <div align="center">
   
