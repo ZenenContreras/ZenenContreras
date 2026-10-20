@@ -1,7 +1,7 @@
 <div align="center">
   <img height=150 src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
 </div>
-<h2 align="center">Hi there! I'm Zenen, a passionate Systems Engineer</h2>
+<h2 align="center"><em>Hi there! I'm Zenen, a passionate Systems Engineer</em></h2>
 
 <p align='center'>
     <code>~$ ls location/</code><br>
