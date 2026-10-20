@@ -32,7 +32,9 @@
 
 </div>
 
+<p align='center'>
 <code>~$ ls contact/</code><br>
+</p>
 
 <div align="center">
   
