@@ -24,24 +24,11 @@
 
 ###
 ### Languages
-<div align="center">
-    <img alt="Languages" src="https://skills.syvixor.com/api/icons?i=js,ts,go"/>
-</div>
 
-### Frontend
-<div align="center">
-      <img alt="Fronted" src="https://skills.syvixor.com/api/icons?i=react,nextjs,vite,tailwindcss,zustand,reactrouter,gsap"/>
-</div>
+| Languages | Frontend | Backend | Tools & Platforms |
+| :---: | :---: | :---: | :---: |
+| <img alt="Languages" src="https://skills.syvixor.com/api/icons?i=js,ts,go"/>| <img alt="Fronted" src="https://skills.syvixor.com/api/icons?i=react,nextjs,vite,tailwindcss,zustand,reactrouter,gsap"/>| <img alt="Backend" src="https://skills.syvixor.com/api/icons?i=nodejs,express,prisma,go,postgresql,redis,supabase"/> | <img alt="Backend" src="https://skills.syvixor.com/api/icons?i=aws,docker,git,github,vercel,linux,postman,stripe,figma"/> |
 
-### Backend
-<div align="center">
-  <img alt="Backend" src="https://skills.syvixor.com/api/icons?i=nodejs,express,prisma,go,postgresql,redis,supabase"/>
-</div>
-
-### Tools and Platforms
-<div align="center">
-  <img alt="Backend" src="https://skills.syvixor.com/api/icons?i=aws,docker,git,github,vercel,linux,postman,stripe,figma"/>
-</div>
 
 ### Contact
 
