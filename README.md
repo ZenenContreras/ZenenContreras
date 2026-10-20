@@ -28,12 +28,12 @@
 
 ### Backend
 <div align="center">
-  <img alt="Backend" src="https://skills.syvixor.com/api/icons?i=nodejs,express,prisma,go,postgresql,redis"/>
+  <img alt="Backend" src="https://skills.syvixor.com/api/icons?i=nodejs,express,prisma,go,postgresql,redis,supabase"/>
 </div>
 
 ### Tools and Platforms
 <div align="center">
-  <img alt="Backend" src="https://skills.syvixor.com/api/icons?i=aws,docker,git,github,vercel,linux,postman,stripe"/>
+  <img alt="Backend" src="https://skills.syvixor.com/api/icons?i=aws,docker,git,github,vercel,linux,postman,stripe,figma"/>
 </div>
 
 ### Contact
