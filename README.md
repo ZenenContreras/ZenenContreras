@@ -3,7 +3,7 @@
 </div>
 <h2 align="center">Hi there! I'm Zenen, a passionate Systems Engineer</h2>
 
-<p>
+<p align='center'>
     <code>~$ ls location/</code><br>
     <code>Based in Bogota, Colombia 🇨🇴 </code><br>
     <br>
