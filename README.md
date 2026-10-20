@@ -4,10 +4,15 @@
 <h2 align="center">Hi there! I'm Zenen, a passionate Systems Engineer</h2>
 
 <p align="center">
-    <code>~ Based in Bogota, Colombia 🇨🇴 </code><br>
-    <code>~ Currently Mastering Go + TypeScript</code><br>
-    <code>~ Open to Collaborate on Any software Projects tbh </code><br>
-    <code>~ All of my projects are available at: </code><br>
+    <code>~ Location/</code><br>
+    <code> Based in Bogota, Colombia 🇨🇴 </code><br>
+    <br>
+    <code>~ Mastering/ </code> <br>
+    <code>Currently Mastering Go + TypeScript</code><br><br>
+    <code>~ Colab/ </code><br>
+    <code>Open to Collaborate on Any software Projects tbh </code><br><br>
+    <code>~ Projects/ </code><br>
+    <code>All of my projects are available at: </code><br><br>
 </p>
 
 <div align="center">
