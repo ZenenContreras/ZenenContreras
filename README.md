@@ -1,6 +1,8 @@
 <div align="center">
-  <img height=150 src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
+  <img width="250" height="173" alt="we-can-code-this" src="https://github.com/user-attachments/assets/13c977e8-9493-427c-a06a-aaac6e621b06" />
 </div>
+
+
 <h2 align="center"><em>Hi there! I'm Zenen, a passionate Systems Engineer</em></h2>
 
 <p align='center'>
