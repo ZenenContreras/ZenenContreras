@@ -3,7 +3,7 @@
 </div>
 
 
-<h2 align="center"><em>Hi there! I'm Zenen, a passionate Systems Engineer</em></h2>
+<h2 align="center"><em>Hi there! I'm Zenen, a passionate Systems Engineer Student</em></h2>
 
 <p align='center'>
     <code>~$ ls location/</code><br>
