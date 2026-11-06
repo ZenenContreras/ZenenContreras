@@ -11,8 +11,8 @@
     <br>
     <code>~$ ls mastering/ </code> <br>
     <code>Currently Mastering Go + TypeScript</code><br><br>
-    <code>~$ ls colab/ </code><br>
-    <code>Open to Collaborate on Any software Projects tbh </code><br><br>
+    <code>~$ ls hobbies/ </code><br>
+    <code> i love sports and games, also i want to learn hardware stuff</code><br><br>
     <code>~$ ls projects/ </code><br>
     <code>All of my projects are available at: </code><br><br>
       <a href="https://zenen.tech" target="_blank">
